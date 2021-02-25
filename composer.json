@@ -1,5 +1,5 @@
 {
-    "name": "graze/console-diff-renderer",
+    "name": "bullb/console-diff-renderer",
     "description": "only write output to a console that has changed",
     "keywords": [
         "graze",
